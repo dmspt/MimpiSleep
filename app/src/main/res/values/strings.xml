@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Mimpi Sleep</string>
+    <string name="single">Single (90cm x 200cm)</string>
+    <string name="singlexl">Single XL (100cm x 200cm)</string>
+    <string name="doublee">Double (120 x 200cm)</string>
+    <string name="king">King (180cm x 200cm)</string>
+    <string name="queen">Queen (160 x 200cm)</string>
+    <string name="superking">Super King (200cm x 200cm)</string>
+    <string name="deskAce">Lapisan premium 15 cm dirancang untuk tidur terbaik anda dengan harga yang paling terjangkau. Mimpi Ace adalah model kasur entry-level kami yang memiliki dua lapisan yang memberikan tidur yang nyaman dan suportif. Lapisan atas terbuat dari lateks alami.</string>
+    <string name="deskLux">Kasur luxury dengan tiga lapisan premium tebal yang menawarkan tidur lebih nyenyak dengan sentuhan mewah. Mimpi Luxury terbuat dari 3 lapisan: satu lapisan lateks alami dan satu lapisan busa memori di atas busa pendukung premium untuk kemewahan unggul tanpa mengesampingkan dukungan untuk tubuh. Mimpi Luxury hadir dengan nuansa yang lebih lembut ala Eropa. Disukai oleh orang asing karena 2 lapisan lateks alaminya yang tebal dan busa memori. Tinggi total kasur luxury adalah 25 cm</string>
+    <string name="subJudulOriginal">( 4 Lapisan unggul, Mimpi dengan tinggi 25 cm )</string>
+    <string name="deskOriginal">Lapisan premium 25 cm dipilih secara khusus untuk memberikan rasa sempurna untuk seluruh bagian tubuh. Kasur 4 lapisan kami yang unik menggabungkan bahan-bahan terbaik – lateks alami, busa memori kepadatan tinggi, busa ketahanan tinggi, dan busa pendukung – untuk kenyamanan dan dukungan yang tak tertandingi.</string>
+    <string name="subJudulLux">( 3 Lapisan unggul, Mimpi dengan tinggi 25 cm )</string>
+    <string name="JudulLux">Mimpi Luxury</string>
+    <string name="JudulOriginal">Mimpi Original</string>
+    <string name="JudulAce">Mimpi Ace</string>
+    <string name="subJudulAce">( 2 Lapisan unggul, Mimpi dengan tinggi 15 cm )</string>
+</resources>
